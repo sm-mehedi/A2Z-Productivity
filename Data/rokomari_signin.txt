@@ -1,0 +1,4 @@
+Rokomari USER SIGNUP DATA
+User Email or Phone   : AAA
+User Password         : 1234
+----------------A2Z----------------------------

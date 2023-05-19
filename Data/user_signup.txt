@@ -1,0 +1,5 @@
+A2Z USER SIGNUP DATA
+User Username   : AAA
+User Password   : 1234
+User Email      : a@gmail.com
+--------------------------------------------

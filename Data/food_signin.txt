@@ -1,0 +1,4 @@
+Crave USER SIGNUP DATA
+User Email or Phone   : food
+User Password : 123
+-----------------a2z-------------------------

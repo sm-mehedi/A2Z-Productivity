@@ -1,0 +1,4 @@
+BD Ticket USER SIGNUP DATA
+User Email or Phone   : Mehedi
+User Password : 1234
+-----------------A2Z---------------------------

@@ -1,0 +1,5 @@
+Bd Ticket USER SIGNUP DATA
+Username              : Mehedi
+User Password         : 1234
+User EMAIL            : a@gmailcom
+--------------------------------------------

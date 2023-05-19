@@ -1,0 +1,5 @@
+Crave USER SIGNUP DATA
+Username      : food
+User Password : 1234
+User email    : f@gmail.com
+----------------A2Z-------------------------

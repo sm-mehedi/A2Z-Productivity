@@ -1,0 +1,5 @@
+Rokomari USER SIGNUP DATA
+Username              : AAA
+User Password         : 12345
+User Password         : a@gmail.com
+--------------------------------------------

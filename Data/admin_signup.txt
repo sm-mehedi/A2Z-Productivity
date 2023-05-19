@@ -1,0 +1,5 @@
+A2Z ADMIN SIGNUP DATA
+Admin Username   : admin
+Admin Password   : admin
+Admin Email    : a@gmail.com
+--------------------------------------------
